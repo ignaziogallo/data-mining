@@ -12,3 +12,5 @@ Teaching materials for the course Data Mining at the University of Insubria in V
   * [01-pandas_introduction.ipynb](https://github.com/ignaziogallo/data-mining/blob/aa20-21/tutorials/Pandas/01-pandas_introduction.ipynb)
 * [data_types](https://github.com/ignaziogallo/data-mining/tree/aa20-21/tutorials/data_types)
   * [Attributes_Types.ipynb](https://github.com/ignaziogallo/data-mining/blob/aa20-21/tutorials/data_types/Attributes_Types.ipynb) 
+* data
+  * [Sampling_bias.ipynb](https://github.com/ignaziogallo/data-mining/blob/aa20-21/tutorials/data/Sampling_bias.ipynb) 
